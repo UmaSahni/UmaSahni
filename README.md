@@ -15,11 +15,19 @@
 
 - ⚡ Fun fact **I love cartoons**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uma-sahni-4a8aa1246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uma-sahni-4a8aa1246" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umasahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umasahni" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/uma-sahni-4a8aa1246" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/UmaSahni" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/Crystal_Vibes" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<hr/>
 
 <h1 align="center">Tech Skills</h1>
 <div align="center"><table><tr><td valign="top" width="33%">
