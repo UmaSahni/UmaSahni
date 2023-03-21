@@ -9,7 +9,7 @@
 
 - 📄 Check out my <a href="https://drive.google.com/file/d/1dRHZrEma-kfLiYj-j_McunCJfHseC3O3/view?usp=share_link">Resume </a>  
 
-- 📌 Check out my <a target="blank" href="https://umasahni.github.io/">Portfolio </a>  
+- 📌 Check out my <a target="_blank" href="https://umasahni.github.io/">Portfolio </a>  
 
 - 💬 Ask me about **React**
 
