@@ -85,6 +85,5 @@
  
  ![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=buefy&show_icons=true)
  
- ![Uma's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=UmaSahni&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
- 
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true) 
  
