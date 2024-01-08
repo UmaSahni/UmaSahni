@@ -70,7 +70,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=radical&show_icons=true" alt="GitHub Stats">
     </td>
     <td>
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=radical&hide_border=true)](https://git.io/streak-stats)
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=radical&hide_border=true"  />
+      [![GitHub Streak]()](https://git.io/streak-stats)
     </td>
   </tr>
   <tr>
