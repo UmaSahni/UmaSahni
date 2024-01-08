@@ -70,16 +70,16 @@
       <img src="https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=radical&show_icons=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=radical&hide_border=true"  />
-      [![GitHub Streak]()](https://git.io/streak-stats)
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=radical&hide_border=true" alt="streak stats"  />
     </td>
   </tr>
   <tr>
     <td>
-      [![Your LeetCode stars](https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=radical&hide_border=true)](https://github.com/UmaSahni/github-readme)
+      <h1> DSA Solved </h1>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=radical&hide_border=true" alt="leetcode stats"  />
     </td>
     <td>
-      [![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true)](https://github.com/UmaSahni/github-readme)
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true" alt="summary cards"  />
     </td>
   </tr>
 </table>
