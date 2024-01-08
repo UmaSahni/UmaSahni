@@ -2,7 +2,8 @@
 <h3 align="center">Developing Digital Experiences That Bring Your Vision To Life.</h3>
 
 ## About Me
-<img align="right" width="200px" src="https://iconscout.com/lottie-animation/female-programmer-5236354?utm_campaign=search&utm_medium=marketplace&utm_source=lottiefiles" />
+// <img align="right" width="200px" 
+src="https://lottiefiles.com/animations/pudgy-work-dx4I446HlV" />
 
 
 
