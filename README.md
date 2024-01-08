@@ -2,7 +2,8 @@
 <h3 align="center">Developing Digital Experiences That Bring Your Vision To Life.</h3>
 
 ## About Me
-<img align="right" width="200px" src="https://camo.githubusercontent.com/ba94d8fe3a583586b80d1057c0abc29b89001d66c8b33b9c54db783f98015aae/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4e65617241646f6c657363656e74426c61636b666c792d6d61782d316d622e676966" />
+<img align="right" width="200px" src="https://iconscout.com/lottie-animation/female-programmer-5236354?utm_campaign=search&utm_medium=marketplace&utm_source=lottiefiles" />
+
 
 
 - 🔭 I’m currently learning **MERN Stack at Masai**
