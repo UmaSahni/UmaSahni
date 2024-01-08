@@ -65,13 +65,14 @@
 </td></tr></table>  
 
 
-[![Your LeetCode stars](https://leetcode-stats-six.vercel.app/api?username=UmaSahni)](https://github.com/UmaSahni/github-readme)
 
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmaSahni)](https://git.io/streak-stats)
- 
- 
- ![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=buefy&show_icons=true)
+
+![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=dark&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=dark)](https://git.io/streak-stats)
+[![Your LeetCode stars](https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=dark)](https://github.com/UmaSahni/github-readme)
+
  
 [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true) 
+
  
