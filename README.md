@@ -3,7 +3,8 @@
 
 ## About Me
 // <img align="right" width="200px" 
-src="https://lottiefiles.com/animations/pudgy-work-dx4I446HlV" />
+src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2au22z00x84cpmk5zz43fl4ffc3a342l910sm5&ep=v1_gifs_search&rid=200w.webp&ct=g" />
+
 
 
 
