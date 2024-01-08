@@ -75,8 +75,8 @@
   </tr>
   <tr>
     <td>
-      <h1> DSA Solved </h1>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=radical&hide_border=true" alt="leetcode stats"  />
+      <h5> DSA Solved </h5>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=dark&hide_border=true" alt="leetcode stats"  />
     </td>
     <td>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true" alt="summary cards"  />
