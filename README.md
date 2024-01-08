@@ -64,13 +64,24 @@
 
 </td></tr></table>  
 
-
-
-
-![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=radical&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Your LeetCode stars](https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=radical&hide_border=true)](https://github.com/UmaSahni/github-readme)
-[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true)](https://github.com/UmaSahni/github-readme)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=UmaSahni&theme=radical&show_icons=true" alt="GitHub Stats">
+    </td>
+    <td>
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmaSahni&theme=radical&hide_border=true)](https://git.io/streak-stats)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      [![Your LeetCode stars](https://leetcode-stats-six.vercel.app/api?username=UmaSahni&theme=radical&hide_border=true)](https://github.com/UmaSahni/github-readme)
+    </td>
+    <td>
+      [![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaSahni&theme=radical&hide_border=true)](https://github.com/UmaSahni/github-readme)
+    </td>
+  </tr>
+</table>
 
 
 
